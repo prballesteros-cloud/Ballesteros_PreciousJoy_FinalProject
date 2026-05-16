@@ -27,20 +27,3 @@ Click the link below to watch the technical walkthrough and design defense:
 1. *Object-Oriented Programming (OOP):* Encapsulation of state and logic within structural data layers (class Bike) and manager architectures (class RentalSystem).
 2. *File Handling & Serialization:* Direct parsing, cleaning (strip()), and data restructuring (split()) of raw persistent flat-file CSV models.
 3. *Data Structures & Algorithms:* Utilization of dynamic linear lists alongside an $O(n)$ *Linear Search Algorithm* for exact-match ID filtering.
-
----
-
-## Repository Structure
-
-```text
-DelaCruz_PreciousJoy_FinalProject/
-│
-├── README.md                  # Project overview, features, and setup guide
-│
-├── src/                       # Application source modules
-│   ├── main.py                # Main executable entry point and CLI view loop
-│   ├── manager.py             # Business logic layer and transactional processes
-│   └── models.py              # Data structure and object mappings
-│
-└── data/                      # Local data persistency container
-    └── inventory.txt          # Auto-generated database storage file
