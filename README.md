@@ -6,12 +6,13 @@ An intuitive, command-line interface (CLI) application developed in Python to ma
 
 ##  Project Video Demonstration
 Click the link below to watch the technical walkthrough and design defense:
-*[EcoRide Final Project Demonstration - YouTube](https://youtu.be/vExOrpBHRbE?si=FhOk4gxamuz19aaD
+
+[EcoRide Final Project Demonstration - YouTube](https://youtu.be/vExOrpBHRbE?si=FhOk4gxamuz19aaD
 )
 
 ---
 
-## 🚀 Features
+## Features
 
 * *Persistent Data Storage:* Uses text-based file operations to save and load inventory state (data/inventory.txt), ensuring data is preserved even after closing the application.
 * *Dynamic Inventory Control:* Administrators can seamlessly insert new stock with automated custom attributes (ID, Brand, Type, and Rates).
@@ -21,7 +22,7 @@ Click the link below to watch the technical walkthrough and design defense:
 
 ---
 
-## 🛠️ Core Concepts Demonstrated
+## Core Concepts Demonstrated
 
 1. *Object-Oriented Programming (OOP):* Encapsulation of state and logic within structural data layers (class Bike) and manager architectures (class RentalSystem).
 2. *File Handling & Serialization:* Direct parsing, cleaning (strip()), and data restructuring (split()) of raw persistent flat-file CSV models.
@@ -29,7 +30,7 @@ Click the link below to watch the technical walkthrough and design defense:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 DelaCruz_PreciousJoy_FinalProject/
